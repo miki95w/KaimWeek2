@@ -1,0 +1,10 @@
+.env
+Lib/
+Scripts/
+share/
+Include/
+/Scripts
+/Include
+/share
+/Lib
+pyvenv.cfg
